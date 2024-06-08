@@ -1,0 +1,23 @@
+marketing.csv
+---------------------
+Esse conjunto de dados contém registros extraídos de um banco de clientes de uma grande loja. Através dos atributos, a loja quer saber se é possível que um cliente responda positivamente à campanha publicitária que eles farão.
+
+Atributos:
+
+- renda: valor de renda média do cliente
+- n_criancas: número de crianças que residem na mesma casa do cliente
+- n_adolescentes: número de adolescentes que residem na mesma casa do cliente
+- retorno: número de dias desde a última compra do cliente
+- consumo_vinho: valor gasto pelo cliente em vinhos nos últimos 2 anos
+- consumo_frutas: valor gasto pelo cliente em frutas nos últimos 2 anos
+- consumo_carne: valor gasto pelo cliente em carnes nos últimos 2 anos
+- consumo_peixe: valor gasto pelo cliente em peixes nos últimos 2 anos
+- consumo_doces: valor gasto pelo cliente em doces nos últimos 2 anos
+- consumo_ouro: valor gasto pelo cliente em produtos da linha dourada nos últimos 2 anos
+- n_desconto: quantidade de compras feitas com descontos
+- n_compras_site: quantidade de compras feitas pelo site da loja
+- n_compras_catalogo: quantidade de compras feitas via catálogo da loja
+- n_compras_loja: quantidade de compras feitas presencialmente na loja
+- n_vistas_site: quantidade de vezes que o cliente visitou o site da loja
+- reclamacao: indica se o cliente fez alguma reclamação nos últimos 2 anos (1=sim, 0=não)
+- resposta: indica se o cliente respondeu de forma positiva à campanha de marketing
